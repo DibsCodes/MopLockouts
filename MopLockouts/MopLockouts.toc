@@ -1,0 +1,7 @@
+## Interface: 50400
+## Title: MopLockouts
+## Notes: type /lockouts to see your characters world boss lockouts
+## Version: 1.0
+## SavedVariables: MopLockouts
+
+MopLockouts.lua
